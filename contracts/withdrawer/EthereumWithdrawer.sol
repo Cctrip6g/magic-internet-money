@@ -109,7 +109,7 @@ interface IBentoBoxV1 {
 
 // License-Identifier: MIT
 
-interface Cauldron {
+interface Cauldroon {
     function accrue() external;
 
     function withdrawFees() external;
